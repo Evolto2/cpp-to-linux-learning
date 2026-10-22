@@ -3,7 +3,11 @@
   "compiler": "GNU 13.3.0",
   "passed": 23,
   "total": 23,
-  "evidence": "PASS lines and summary extracted from the completed job log",
+  "run_id": 39747668466,
+  "job_id": 119720084747,
+  "head_sha": "99846718dbc5e812378d6c2387fb1d92ed0c3d9e",
+  "url": "https://github.com/Evolto2/cpp-to-linux-learning/actions/runs/39747668466",
+  "evidence": "PASS lines and summary extracted from the completed public job log",
   "results": [
     {
       "name": "original-source-integrity",
@@ -97,6 +101,5 @@
       "name": "tcp-client-disconnect-and-reconnect",
       "passed": true
     }
-  ],
-  "stage": "pre-publication validation; original run retained privately"
+  ]
 }
