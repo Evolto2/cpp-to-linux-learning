@@ -1,0 +1,7 @@
+/build/
+/practice/
+__pycache__/
+*.pyc
+students.txt
+/.vs/
+/.vscode/

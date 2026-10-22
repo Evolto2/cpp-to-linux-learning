@@ -1,0 +1,102 @@
+{
+  "platform": "GitHub Actions ubuntu-24.04",
+  "compiler": "GNU 13.3.0",
+  "passed": 23,
+  "total": 23,
+  "evidence": "PASS lines and summary extracted from the completed job log",
+  "results": [
+    {
+      "name": "original-source-integrity",
+      "passed": true
+    },
+    {
+      "name": "calculator-1",
+      "passed": true
+    },
+    {
+      "name": "calculator-2",
+      "passed": true
+    },
+    {
+      "name": "calculator-3",
+      "passed": true
+    },
+    {
+      "name": "calculator-4",
+      "passed": true
+    },
+    {
+      "name": "calculator-5",
+      "passed": true
+    },
+    {
+      "name": "calculator-6",
+      "passed": true
+    },
+    {
+      "name": "student-add",
+      "passed": true
+    },
+    {
+      "name": "student-restart-persistence",
+      "passed": true
+    },
+    {
+      "name": "student-search-id",
+      "passed": true
+    },
+    {
+      "name": "student-search-name",
+      "passed": true
+    },
+    {
+      "name": "student-duplicate-id",
+      "passed": true
+    },
+    {
+      "name": "student-invalid-id",
+      "passed": true
+    },
+    {
+      "name": "student-update",
+      "passed": true
+    },
+    {
+      "name": "student-updated-persistence",
+      "passed": true
+    },
+    {
+      "name": "student-cancel-delete",
+      "passed": true
+    },
+    {
+      "name": "student-delete",
+      "passed": true
+    },
+    {
+      "name": "student-empty-after-restart",
+      "passed": true
+    },
+    {
+      "name": "tcp-server-start",
+      "passed": true
+    },
+    {
+      "name": "tcp-official-client-echo",
+      "passed": true
+    },
+    {
+      "name": "tcp-utf8-echo",
+      "passed": true
+    },
+    {
+      "name": "tcp-multiple-buffer-echo",
+      "passed": true
+    },
+    {
+      "name": "tcp-client-disconnect-and-reconnect",
+      "passed": true
+    }
+  ],
+  "stage": "pre-publication validation; original run retained privately"
+}

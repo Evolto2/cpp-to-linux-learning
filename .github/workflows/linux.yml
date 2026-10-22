@@ -1,0 +1,22 @@
+name: Linux build and smoke tests
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  linux:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Configure and compile original sources
+        run: bash scripts/build-linux.sh
+      - name: Verify sources and run behavior checks
+        run: python3 scripts/smoke_test.py --build-dir build/linux --report build/linux-results.json
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: linux-test-results
+          path: build/linux-results.json

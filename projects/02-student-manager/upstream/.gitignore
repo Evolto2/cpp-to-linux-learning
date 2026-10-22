@@ -1,0 +1,40 @@
+﻿# Compiled Binaries & Executables
+*.exe
+*.out
+*.app
+
+# Object Files & Static/Dynamic Libraries
+*.o
+*.obj
+*.lib
+*.a
+*.dll
+*.so
+*.dylib
+
+# Debug Files & Build Artifacts
+*.pdb
+*.ilk
+*.idb
+*.dSYM/
+build/
+bin/
+obj/
+
+# Visual Studio & VS Code Configuration
+.vscode/
+.vs/
+*.vcxproj.user
+*.suo
+
+# CLion & IDE Configuration
+.idea/
+cmake-build-*/
+
+# OS-Specific Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local Runtime Data Files (generated on program execution)
+students.txt

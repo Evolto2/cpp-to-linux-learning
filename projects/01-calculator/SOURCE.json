@@ -1,0 +1,14 @@
+{
+  "repository": "Ruzgar-Kaan/CppBasic-Calculator",
+  "url": "https://github.com/Ruzgar-Kaan/CppBasic-Calculator",
+  "commit": "f4c708fdcf803588712c1b5f6d8897ccc66203ae",
+  "license": "MIT",
+  "scope": "complete repository snapshot excluding Git metadata",
+  "archive_sha256": "b3ebf9d1970719f47425c3c4f70b2a06e1fdfecfcf7aee851355c898a77c89a0",
+  "files_sha256": {
+    ".gitignore": "b99fecfaf8b9744ee7748f1e719c9d93ac11862032eff7107bbcab60faf54a04",
+    "Console_calculator_program.cpp": "48be33ede0ac9bd1748e3a6bb9aa404ec9ef6e33706302a497c231557243c916",
+    "LICENSE": "298226eebb6129d1a0a1096d6952a190762881beaee8a61a6d0b756ec391e87c",
+    "README.md": "f0b5ed7df461573779f668d82c7ac6ea3a9855b6b37083ab3ce6a68ce0dd438e"
+  }
+}

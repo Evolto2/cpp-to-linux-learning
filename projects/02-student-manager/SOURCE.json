@@ -1,0 +1,19 @@
+{
+  "repository": "isrargabol/C--Student-Management-System",
+  "url": "https://github.com/isrargabol/C--Student-Management-System",
+  "commit": "a7bfcb375df8c3c3fc943b79386b16a74401175d",
+  "license": "MIT",
+  "scope": "complete repository snapshot excluding Git metadata",
+  "archive_sha256": "0e08d9cfc51ee2b100bf87f46f539f81190da951fa7abc17d749dc5c305c1069",
+  "files_sha256": {
+    ".gitignore": "d485cf2e6881b233753a5bb29f7ae11fb9c0b5d343d7b715c257557c3825f7d5",
+    "LICENSE": "c8e1d78c633e1609e8512d0845d3c1601751e6df89e4cf0ddd805bcac7c5832a",
+    "README.md": "da9d5cf75f611302129e1bf948a505f260f23028ab22e0c3061e94fa5f8040fc",
+    "main.cpp": "881def06fdba85e216d1585939ee994d5eed7f789671ba1e317359890a3b2f39",
+    "screenshots/add-student.png": "1bcdfbb79306588585a06e2327024a951c673e736c9fd5f4f27b3478733abf2c",
+    "screenshots/main-menu.png": "39f3430187ad673fca0ba3f337cfecefa2309382a4635199b53ade08101d623b",
+    "screenshots/search-student.png": "3f6794f7b74edf976ff2330ac8e9736f774c348927a145137deca4b3c07ac7de",
+    "screenshots/student-records.png": "971791bc8b2c779a35a4b90a514afbc449b3e29096c402d25b3a09e32862f190",
+    "screenshots/update-delete-student.png": "b4e0c84befab865b2414cd382f93b3d17493be282b9f1c223367daefca3ea9d0"
+  }
+}

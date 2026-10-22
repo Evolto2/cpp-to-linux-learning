@@ -1,0 +1,123 @@
+{
+  "platform": "Windows-10-10.0.19045-SP0",
+  "python": "3.12.14",
+  "passed": 23,
+  "total": 23,
+  "results": [
+    {
+      "name": "original-source-integrity",
+      "passed": true,
+      "detail": "691 source files match recorded SHA-256 values"
+    },
+    {
+      "name": "calculator-1",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "calculator-2",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "calculator-3",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "calculator-4",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "calculator-5",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "calculator-6",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "student-add",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "student-restart-persistence",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "student-search-id",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "student-search-name",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "student-duplicate-id",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "student-invalid-id",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "student-update",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "student-updated-persistence",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "student-cancel-delete",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "student-delete",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "student-empty-after-restart",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "tcp-server-start",
+      "passed": true,
+      "detail": "server accepted a loopback connection"
+    },
+    {
+      "name": "tcp-official-client-echo",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "tcp-utf8-echo",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "tcp-multiple-buffer-echo",
+      "passed": true,
+      "detail": "OK"
+    },
+    {
+      "name": "tcp-client-disconnect-and-reconnect",
+      "passed": true,
+      "detail": "OK"
+    }
+  ]
+}
